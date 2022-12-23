@@ -1,3 +1,4 @@
+// Similar to HCL MODEL
 package com.ph.springbootecommerce.entity;
 
 // imports
